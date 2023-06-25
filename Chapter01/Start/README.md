@@ -30,3 +30,10 @@ Build the application using this command:
 
 Then you can open the app by browsing to `dist/index.html`.
 
+
+# Steps to create react app from scratch (By Ali)
+- npm init
+- accept all defaults expect test command set it to jest
+- npm install --save-dev jest
+
+
